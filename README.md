@@ -1,1 +1,2 @@
 # NH_summer_uptake
+Key codes for "Contrasting response of northern temperate and Arctic-boreal net CO2 uptake to anomalous summer warming". It contains the codes for processing data, calculating the optimum temperature for each carbon flux, and drawing the maps. All the codes can be opened with MATLAB 2024a software. In addition, attached files contain the the detrened estimates of inversion-based NEE, satellite-derived GPP, reconstructed TER, and TRENDY DGVM outputs，which can be download and used to run the code above in MATLAB.
